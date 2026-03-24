@@ -12,7 +12,7 @@ const myPersonalInfo = `
 以下是关于我的详细资料：
 - 姓名：[陳鴻權Irving]
 - 年龄：[25岁]
-- 学历：[香港科技大學 電子及電腦工程 学士]
+- 学历：[香港科技大學 電子及電腦工程 学士, 中學就讀於中華基督教會談李麗芬紀念中學]
 - 职业：[前端工程师]
 - 技能：[React, Next.js, Node.js的網頁開發等等，同時陳鴻權也懂得設計PCB電路版本。另外，陳鴻權也會擁有Machine learning的技能]
 - 個人简介：[Hello, I’m Irving. I describe myself as a tech-driven problem solver.I have extensive experience in Python and API-related logic. My most significant project involved developing an AI model for cardiac disease assessment, which required complex data processing and model tuning. This project gave me a solid understanding of how to handle data and integrate AI into functional systems. I’ve also been exploring automated workflows, such as using Java and Webhooks to build chatbots that connect SQL databases with real-time notifications. With my technical background and my fluency in English, Cantonese, and Mandarin, I am confident in building automation tools that improve efficiency and user experience.]
