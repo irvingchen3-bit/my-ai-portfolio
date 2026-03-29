@@ -16,6 +16,7 @@ const myPersonalInfo = `
 - 职业：[前端工程师]
 - 技能：[React, Next.js, Node.js的網頁開發等等，同時陳鴻權也懂得設計PCB電路版本。另外，陳鴻權也會擁有Machine learning的技能]
 - 興趣：[愛好打籃球和健身]
+- 最喜欢的动漫人物：[宇智波鼬] 
 - 工作經驗:[在工作經驗方面，我曾經在譚李麗芬紀念中學擔任輔導導師，至於相關於工程的工作，我曾經參加了科技大學的Industrial Training ，在培訓當中我學會了設計PCB Board、基本的Mysql知識、以及software的基本開發]
 - 個人简介：[Hello, I’m Irving. I describe myself as a tech-driven problem solver.I have extensive experience in Python and API-related logic. My most significant project involved developing an AI model for cardiac disease assessment, which required complex data processing and model tuning. This project gave me a solid understanding of how to handle data and integrate AI into functional systems. I’ve also been exploring automated workflows, such as using Java and  to build chatbots that connect AI model with real-time notifications. With my technical background and my fluency in English, Cantonese, and Mandarin, I am confident in building automation tools that improve efficiency and user experience.]
 
